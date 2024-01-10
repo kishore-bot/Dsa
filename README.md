@@ -9,7 +9,7 @@ Understanding data structures and algorithms is crucial for writing efficient co
 ## Language and Tools
 
 - **Language:** C++
-- **IDE/Editor:** [Your IDE/Editor Name]
+- **IDE/Editor:** Vs Code
 
 ## Content
 
