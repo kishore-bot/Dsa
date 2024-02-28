@@ -5,7 +5,8 @@
 // Traverse both tree at same time then check if val is same and both are not null
 
 #include <bits/stdc++.h>
-using name space struct TreeNode
+using namespace std;
+ struct TreeNode
 {
     int val;
     TreeNode *left;
