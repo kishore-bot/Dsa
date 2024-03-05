@@ -27,7 +27,7 @@ Here so;ved using dfs
 
 
 #include <bits/stdc++.h>
-using name space struct 
+using namespace std; 
 struct TreeNode
 {
     int val;
